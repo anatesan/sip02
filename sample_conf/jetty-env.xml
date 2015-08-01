@@ -8,8 +8,8 @@
 			<New class="org.apache.commons.dbcp.BasicDataSource">
 				<Set name="driverClassName">com.mysql.jdbc.Driver</Set>
 				<Set name="url">jdbc:mysql://localhost:3306/sip02?autoReconnect=true</Set>
-				<Set name="username">sip</Set>
-				<Set name="password">sip</Set>
+				<Set name="username">sip02</Set>
+				<Set name="password">sip02</Set>
 			</New>
 		</Arg>
 	</New>
